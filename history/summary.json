@@ -4,9 +4,9 @@
     "url": "https://git.ucode.space",
     "icon": "https://favicons.githubusercontent.com/git.ucode.space",
     "slug": "git-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 606,
     "timeMonth": 606,
     "timeYear": 606,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-03": 0
+    }
   },
   {
     "name": "Docker-Registry",
