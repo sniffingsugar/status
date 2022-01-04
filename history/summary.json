@@ -4,19 +4,19 @@
     "url": "https://git.ucode.space",
     "icon": "https://favicons.githubusercontent.com/git.ucode.space",
     "slug": "git-server",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 625,
-    "timeDay": 717,
-    "timeWeek": 620,
-    "timeMonth": 625,
-    "timeYear": 625,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 620,
+    "timeDay": 677,
+    "timeWeek": 614,
+    "timeMonth": 620,
+    "timeYear": 620,
     "dailyMinutesDown": {
-      "2022-01-04": 0
+      "2022-01-04": 11
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://registry.ucode.space",
     "icon": "https://favicons.githubusercontent.com/registry.ucode.space",
     "slug": "docker-registry",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 371,
-    "timeDay": 382,
-    "timeWeek": 375,
-    "timeMonth": 371,
-    "timeYear": 371,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 366,
+    "timeDay": 364,
+    "timeWeek": 369,
+    "timeMonth": 366,
+    "timeYear": 366,
     "dailyMinutesDown": {
-      "2022-01-04": 0
+      "2022-01-04": 11
     }
   },
   {
