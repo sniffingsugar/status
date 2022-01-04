@@ -4,36 +4,40 @@
     "url": "https://git.ucode.space",
     "icon": "https://favicons.githubusercontent.com/git.ucode.space",
     "slug": "git-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 652,
-    "timeDay": 928,
-    "timeWeek": 656,
-    "timeMonth": 652,
-    "timeYear": 652,
-    "dailyMinutesDown": {}
+    "time": 625,
+    "timeDay": 717,
+    "timeWeek": 620,
+    "timeMonth": 625,
+    "timeYear": 625,
+    "dailyMinutesDown": {
+      "2022-01-04": 0
+    }
   },
   {
     "name": "Docker-Registry",
     "url": "https://registry.ucode.space",
     "icon": "https://favicons.githubusercontent.com/registry.ucode.space",
     "slug": "docker-registry",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 378,
-    "timeDay": 425,
-    "timeWeek": 386,
-    "timeMonth": 378,
-    "timeYear": 378,
-    "dailyMinutesDown": {}
+    "time": 371,
+    "timeDay": 382,
+    "timeWeek": 375,
+    "timeMonth": 371,
+    "timeYear": 371,
+    "dailyMinutesDown": {
+      "2022-01-04": 0
+    }
   },
   {
     "name": "gly.one (URL Shortener)",
