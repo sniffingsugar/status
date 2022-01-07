@@ -6,6 +6,10 @@ sites:
     url: https://git.ucode.space
   - name: Docker-Registry
     url: https://registry.ucode.space
+  - name: Cloud
+    url: https://cloud.ucode.space
+  - name: Wakapi
+    url: https://time.ucode.space
   - name: gly.one (URL Shortener)
     url: https://gly.one
     assignees:
