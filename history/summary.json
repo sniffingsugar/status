@@ -4,18 +4,19 @@
     "url": "https://git.ucode.space",
     "icon": "https://favicons.githubusercontent.com/git.ucode.space",
     "slug": "git-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.90%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.88%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
     "time": 1453,
-    "timeDay": 9787,
+    "timeDay": 864,
     "timeWeek": 2246,
     "timeMonth": 1453,
     "timeYear": 1453,
     "dailyMinutesDown": {
+      "2022-01-11": 2,
       "2022-01-04": 11
     }
   },
@@ -24,10 +25,10 @@
     "url": "https://registry.ucode.space",
     "icon": "https://favicons.githubusercontent.com/registry.ucode.space",
     "slug": "docker-registry",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.89%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.88%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
     "time": 387,
@@ -36,6 +37,7 @@
     "timeMonth": 387,
     "timeYear": 387,
     "dailyMinutesDown": {
+      "2022-01-11": 1,
       "2022-01-04": 11
     }
   },
@@ -44,25 +46,27 @@
     "url": "https://cloud.ucode.space",
     "icon": "https://favicons.githubusercontent.com/cloud.ucode.space",
     "slug": "cloud",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 667,
     "timeDay": 760,
     "timeWeek": 667,
     "timeMonth": 667,
     "timeYear": 667,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-11": 1
+    }
   },
   {
     "name": "Wakapi",
     "url": "https://time.ucode.space",
     "icon": "https://favicons.githubusercontent.com/time.ucode.space",
     "slug": "wakapi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -73,7 +77,9 @@
     "timeWeek": 518,
     "timeMonth": 518,
     "timeYear": 518,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-11": 0
+    }
   },
   {
     "name": "gly.one (URL Shortener)",
