@@ -5,18 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/git.ucode.space",
     "slug": "git-server",
     "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "uptime": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.92%",
     "time": 1089,
     "timeDay": 616,
     "timeWeek": 671,
     "timeMonth": 1089,
     "timeYear": 1089,
     "dailyMinutesDown": {
-      "2022-01-28": 10,
       "2022-01-24": 27,
       "2022-01-04": 11
     }
@@ -27,18 +26,17 @@
     "icon": "https://favicons.githubusercontent.com/registry.ucode.space",
     "slug": "docker-registry",
     "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "uptime": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.92%",
     "time": 395,
     "timeDay": 350,
     "timeWeek": 381,
     "timeMonth": 395,
     "timeYear": 395,
     "dailyMinutesDown": {
-      "2022-01-28": 10,
       "2022-01-24": 27,
       "2022-01-04": 11
     }
@@ -49,19 +47,17 @@
     "icon": "https://favicons.githubusercontent.com/cloud.ucode.space",
     "slug": "cloud",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 668,
     "timeDay": 578,
     "timeWeek": 609,
     "timeMonth": 668,
     "timeYear": 668,
-    "dailyMinutesDown": {
-      "2022-01-28": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wakapi",
@@ -69,19 +65,17 @@
     "icon": "https://favicons.githubusercontent.com/time.ucode.space",
     "slug": "wakapi",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 426,
     "timeDay": 387,
     "timeWeek": 382,
     "timeMonth": 426,
     "timeYear": 426,
-    "dailyMinutesDown": {
-      "2022-01-28": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Vaultwarden",
@@ -89,37 +83,37 @@
     "icon": "https://favicons.githubusercontent.com/bw.ucode.space",
     "slug": "vaultwarden",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 409,
     "timeDay": 322,
     "timeWeek": 355,
     "timeMonth": 409,
     "timeYear": 409,
-    "dailyMinutesDown": {
-      "2022-01-28": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Encrypt",
     "url": "https://encrypt.ucode.space",
     "icon": "https://favicons.githubusercontent.com/encrypt.ucode.space",
     "slug": "encrypt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 603,
-    "timeDay": 439,
-    "timeWeek": 559,
-    "timeMonth": 603,
-    "timeYear": 603,
-    "dailyMinutesDown": {}
+    "time": 598,
+    "timeDay": 485,
+    "timeWeek": 556,
+    "timeMonth": 598,
+    "timeYear": 598,
+    "dailyMinutesDown": {
+      "2022-01-28": 0
+    }
   },
   {
     "name": "gly.one (URL Shortener)",
