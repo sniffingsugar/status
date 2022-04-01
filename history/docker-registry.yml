@@ -1,7 +1,7 @@
 url: https://registry.ucode.space
-status: up
-code: 200
-responseTime: 312
-lastUpdated: 2022-03-31T23:23:00.712Z
+status: down
+code: 502
+responseTime: 420
+lastUpdated: 2022-04-01T21:11:52.493Z
 startTime: Tue Dec 28 2021 18:17:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
